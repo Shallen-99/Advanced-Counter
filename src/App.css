@@ -6,6 +6,7 @@ body {
   justify-content: center;
   background-color: #000000;
   font-family: sans-serif;
+  color: #e0e0e0;
 }
 
 .counter-container {
